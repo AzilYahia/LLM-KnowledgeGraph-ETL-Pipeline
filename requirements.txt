@@ -1,0 +1,11 @@
+pandas
+python-dotenv
+neo4j
+langchain-groq
+langchain-core
+sentence-transformers
+tqdm
+customtkinter
+pyinstaller
+torch
+torch-geometric

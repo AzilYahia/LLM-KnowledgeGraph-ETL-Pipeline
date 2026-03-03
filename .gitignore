@@ -1,0 +1,22 @@
+# Security
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Data (Too big for GitHub)
+MIMIC-Demo-DB/
+*.csv
+*.pt
+
+# IDE
+.idea/
+.vscode/
+
+# Build artifacts (for your future exe)
+build/
+dist/
+*.spec
